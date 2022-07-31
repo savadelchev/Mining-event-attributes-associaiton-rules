@@ -1,0 +1,1 @@
+# Mining-event-attributes-associaiton-rules
